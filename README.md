@@ -1,2 +1,4 @@
 # ME-JAVA-Coding-Challenge
-JAVA Coding Challenge @ME Bank
+This provides a sample code repository for transaction records stored in CSV File
+
+
